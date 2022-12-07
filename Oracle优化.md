@@ -1,88 +1,60 @@
-### [1. 表结构优化](#表结构优化)
-### [2. 分区表优化](#-)
+### [表结构优化](#表结构优化)
+### [分区表优化](#-)
 ### 分区表优化
 '''
-a
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-a
+a    
+a    
+a    
+a    
+a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    a    
+a    
+a    
+a    
 '''
 # 表结构优化
 ---------
