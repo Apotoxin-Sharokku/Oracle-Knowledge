@@ -42,9 +42,9 @@
 > 当然有时候也可以 **为了效率降低要求，增加冗余用空间换时间** <br>
 > 例如游戏商品表里面有四个字段:  <br>
 > &emsp; &emsp; &emsp;        +  游戏道具   <br>
-> &emsp; &emsp; &emsp;        +  单个售价 <br>
-> &emsp; &emsp; &emsp;        +  销售量 <br>
-> &emsp; &emsp; &emsp;        +  总金额   <br>  
+> &emsp; &emsp; &emsp;        +  单个售价   <br>
+> &emsp; &emsp; &emsp;        +  销售量     <br>
+> &emsp; &emsp; &emsp;        +  总金额     <br>  
 > 其中总金额可以由单个售价和销售量相乘获得,为冗余字段<br>
 > 但是这个字段可以提升查询速度,因此可根据需求做适当保留 <br>
 <br>
