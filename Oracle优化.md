@@ -217,33 +217,35 @@
 3. [组合索引](#VZJ0m)
 4. [位图索引](#s8JtB)
 5. [函数索引](#PZ2Pk)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <a name="KMVJJ"></a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 #### 唯一索引
 - [get_back](#NTNZo) -
 > 当某列任意两行数据不相同
@@ -329,13 +331,14 @@
 5. [减少数据库访问次数](#RrxUU)
 6. [用 where 替换 having](#aV0QB)
 7. [执行计划优化](#ULYYc)
-<a name="pIeBV"></a>
+
 <br>
 <br>
 <br>
 <br>
 <br>
 
+<a name="pIeBV"></a>
 #### 1. 避免索引失效
 - [get_back](#seFDW) -
 **a. 避免隐式转换**
@@ -374,12 +377,12 @@
 > (类似过桥，桥头，桥身，桥尾)
 > 范围索引后面的字段会失效
 > index cctv ( id, name, job )
-> ------
+> >>>>>>
 > where id=52 and name=wbb and job=jizhe
 > where id=52 and job=jizhe
 > where id>52 and name=wbb and job=jizhe
 > where name=wbb and job=jizhe
-> ------
+> >>>>>>
 > id, name, job 均走索引
 > id 走索引
 > id 走索引
