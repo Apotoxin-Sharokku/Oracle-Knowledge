@@ -21,8 +21,19 @@
 <br>
 <br>
 <br>
----
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <a name="3b14b513"></a>
 ### 表结构优化      
 -- [get_back](#3d725f4d) -- 
@@ -35,6 +46,19 @@
        +  总金额     
 其中总金额可以由单个售价和销售量相乘获得,为冗余字段 
 但是这个字段可以提升查询速度,因此可根据需求做适当保留 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -73,6 +97,19 @@
   - [散列分区](#9b72e6d9) -        
   - [复合分区](#339fb890) -        
 <a name="dc5c9f03"></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -141,6 +178,20 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -165,6 +216,24 @@
 4. [位图索引](#s8JtB)
 5. [函数索引](#PZ2Pk)
 <a name="KMVJJ"></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -208,6 +277,20 @@
 #### 函数索引
 - [get_back](#NTNZo) -
 > 在WHERE 条件语句中包含函数或表达式时建立
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -363,7 +446,30 @@
 > 如果能通过 WHERE 子句限制记录的数目，那就能减少这方面的开销。
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <a name="ULYYc"></a>
