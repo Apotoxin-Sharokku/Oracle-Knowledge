@@ -97,33 +97,34 @@
   - [组合分区](#d6ea6238) -        
   - [散列分区](#9b72e6d9) -        
   - [复合分区](#339fb890) -        
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <a name="dc5c9f03"></a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 #### 范围分区
 - [get_back](#54bd2780) -
 > 对字段的值的范围进行划分 
@@ -447,30 +448,7 @@
 > 如果能通过 WHERE 子句限制记录的数目，那就能减少这方面的开销。
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <a name="ULYYc"></a>
